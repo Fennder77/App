@@ -2,7 +2,7 @@ import customtkinter
 from tkinter import *
 from PIL import ImageTk
 
-customtkinter.set_appearance_mode("dark")#смена темы
+customtkinter.set_appearance_mode("dark")#смена темы...
 customtkinter.set_default_color_theme("dark-blue")#цвета виджетов
 
 
